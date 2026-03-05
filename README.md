@@ -1,3 +1,6 @@
+# edp-connect
+this is a simple code base to modularise connecting to a database
+
 # Installation Guide
 
 ## How to Install
