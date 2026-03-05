@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: edp_connect
+Version: 1.0
+Requires-Dist: pyodbc
+Requires-Dist: python-dotenv
+Requires-Dist: sqlalchemy
+Dynamic: requires-dist

@@ -1,0 +1,4 @@
+# Requirements for this package
+pyodbc
+python-dotenv
+sqlalchemy>2.0

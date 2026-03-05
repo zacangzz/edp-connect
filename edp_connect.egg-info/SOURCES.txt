@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+edp_connect/__init__.py
+edp_connect/connect.py
+edp_connect.egg-info/PKG-INFO
+edp_connect.egg-info/SOURCES.txt
+edp_connect.egg-info/dependency_links.txt
+edp_connect.egg-info/requires.txt
+edp_connect.egg-info/top_level.txt
